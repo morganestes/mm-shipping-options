@@ -3,7 +3,7 @@ Contributors: morganestes
 Tags: membermouse, shipping, checkout, ecommerce, extension
 Requires at least: 3.8
 Tested up to: 3.9
-Stable tag: trunk
+Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: https://github.com/morganestes/mm-shipping-options/blob/master/LICENSE
 
