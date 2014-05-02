@@ -46,11 +46,12 @@ No, this only removes the unwanted options from the checkout page. Everything el
 
 == Changelog ==
 
+= 1.0.0 =
+
+* Production release. No changes from 0.1.0.
+
 = 0.1.0 =
 
 * Initial release.
 * Enable JavaScript filter through URL parameter.
 
-= 1.0.0 =
-
-* Production release. No changes from 0.1.0.
