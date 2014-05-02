@@ -13,10 +13,10 @@ Adds a filter to the MemberMouse WordPress plugin to show/hide shipping options 
 == Description ==
 By default, MemberMouse adds *every* shipping option you have configured to an order form, even if you don't want them displayed (like ones that are internal use, free shipping options, etc.).
 
-Custom Shipping Options for MemberMouse enables you to filter out those extra options by specifying which ones you _do_ want displayed. Only want U.S. and International shipping as choices (leaving free shipping for your Customer Service reps, or as a special offer)? No problem! Just add it to your URL and you're good to go.
+Custom Shipping Options for MemberMouse enables you to filter out those extra options by specifying which ones you *do* want displayed. Only want U.S. and International shipping as choices (leaving free shipping for your Customer Service reps, or as a special offer)? No problem! Just add it to your URL and you're good to go.
 
 == Installation ==
-1. This plugin can only be used in conjunction with MemberMouse.com's paid plugin. It must be installed and activated prior to using this one.
+1. This plugin can only be used in conjunction with the [MemberMouse Platform paid plugin](http://membermouse.com/). It must be installed and activated prior to using this one.
 2. Follow standard plugin installation and activation methods.
 
 == Frequently Asked Questions ==
@@ -50,3 +50,7 @@ No, this only removes the unwanted options from the checkout page. Everything el
 
 * Initial release.
 * Enable JavaScript filter through URL parameter.
+
+= 1.0.0 =
+
+* Production release. No changes from 0.1.0.
