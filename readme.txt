@@ -4,7 +4,7 @@ Donate link: http://www.morganestes.com/donate/
 Tags: membermouse, shipping, checkout, ecommerce, extension
 Requires at least: 3.8
 Tested up to: 3.9
-Stable tag: 0.1.0
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://github.com/morganestes/mm-shipping-options/blob/master/LICENSE
 
@@ -37,6 +37,12 @@ MemberMouse relies on JavaScript for the sales process. If it's disabled in the 
 = Will this change the shipping options in MemberMouse? =
 
 No, this only removes the unwanted options from the checkout page. Everything else remains as you set it up.
+
+== Screenshots ==
+
+1. Getting the ID of the shipping option by hovering over the description.
+2. All defined shipping options available (default).
+3. Shipping options filtered.
 
 == Changelog ==
 
