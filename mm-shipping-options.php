@@ -32,7 +32,7 @@ Domain Path: /languages
 class MorganEstes_MemberMouse {
 
 	public $is_mm_active = false;
-	private $version = '0.1.0';
+	private $version = '1.0.0';
 
 	/**
 	 * Class constructor used to run actions.
